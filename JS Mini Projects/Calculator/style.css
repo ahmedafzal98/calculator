@@ -63,3 +63,10 @@
     background-color: #e8e8e8;
 }
 
+@media (max-width: 780px) {
+  .grid-container {
+    width: 70%;
+    height: 90%;
+    padding: 10px;
+  }
+}
