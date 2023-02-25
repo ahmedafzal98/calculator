@@ -67,6 +67,7 @@
   .grid-container {
     width: 70%;
     height: 90%;
+    background-color: red;
     padding: 10px;
   }
 }
